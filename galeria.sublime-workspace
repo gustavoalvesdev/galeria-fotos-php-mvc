@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boott",
+				"bootstrapcdn"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"box-metr",
+				"box-metrica-single"
+			],
+			[
+				"INCL",
+				"INCLUDE_PATH_PAINEL"
+			],
+			[
+				"include_",
+				"INCLUDE_PATH_PAINEL"
+			],
+			[
+				"INCLUDE_PAT",
+				"INCLUDE_PATH_PAINEL"
+			],
+			[
+				"listar-",
+				"listar-contas-a-pagar"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"inlni",
+				"inline-block"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"descri",
+				"description"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"categ",
+				"categoriaContaAPagar"
+			],
+			[
+				"categoria",
+				"categoriaContaAPagar"
+			],
+			[
+				"alert",
+				"alert-success"
+			],
+			[
+				"conte",
+				"main-content"
+			],
+			[
+				"arra",
+				"arrayKey"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"paddin-",
+				"padding-bottom"
+			],
+			[
+				"sub",
+				"subcategoriaOption2"
+			],
+			[
+				"su",
+				"subcategoriaOption"
+			],
+			[
+				"categoi",
+				"categoriaSelecionada"
+			],
+			[
+				"main-b",
+				"main-banner-text"
+			],
+			[
+				"con",
+				"company-brand"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"boot",
+				"bootstrapcdn"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"defa",
+				"date_default_timezone_set()"
+			],
+			[
+				"transla",
+				"translateY()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/site-celke/implementado/index.php",
+		"/C/xampp/htdocs/site-celke/implementado/.htaccess",
+		"/C/xampp/htdocs/site-celke/implementado/core/ConfigController.php",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Views/home/home.php",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Controllers/Home.php",
+		"/C/xampp/htdocs/site-celke/implementado/core/ConfigView.php",
+		"/C/Users/gusta/Desktop/droga/assets/css/styles.css",
+		"/C/Users/gusta/Desktop/menu-bonieky/style.css",
+		"/C/xampp/htdocs/galeria/config.php",
+		"/C/xampp/htdocs/galeria/views/home.php",
+		"/C/xampp/htdocs/galeria/views/template_parts/footer.php",
+		"/C/xampp/htdocs/galeria/models/Fotos.php",
+		"/C/xampp/htdocs/galeria/views/template_parts/header.php",
+		"/C/Users/gusta/Downloads/projeto_02_express/Projeto_02/css/estilo.css",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Views/include/rodape.php",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Controllers/Blog.php",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Controllers/SobreEmpresa.php",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Controllers/Contato.php",
+		"/C/xampp/htdocs/site-celke/implementado/core/config.php",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Views/include/cabecalho.php",
+		"/C/Users/gusta/Desktop/curso-bootstrap-4-layout-01-master/curso-bootstrap-4-layout-01-master/assets/css/styles.css",
+		"/C/xampp/htdocs/site-celke/implementado/app/sts/Views/home.php",
+		"/C/xampp/htdocs/site-celke/implementado/composer.json",
+		"/C/xampp/htdocs/dankiwp/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php",
+		"/C/Users/gusta/Downloads/advanced-custom-fields-pro/advanced-custom-fields-pro/api/api-field-group.php",
+		"/C/php/php.ini",
+		"/C/Users/gusta/Downloads/advanced-custom-fields-pro/advanced-custom-fields-pro/api/api-field.php",
+		"/C/xampp/htdocs/imobiliaria/config.php",
+		"/C/xampp/htdocs/sistemaos/painel/main.php",
+		"/C/xampp/htdocs/sistemaos/config.php",
+		"/C/xampp/htdocs/imobiliaria/painel/main.php",
+		"/C/xampp/htdocs/restaurante/painel/main.php",
+		"/C/xampp/htdocs/restaurante/config.php",
+		"/C/xampp/htdocs/escola/painel/main.php",
+		"/C/xampp/htdocs/escola/config.php",
+		"/C/xampp/htdocs/contaazul/painel/main.php",
+		"/C/xampp/htdocs/contaazul/config.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/404.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/page-home.php",
+		"/C/xampp/htdocs/condominio/config.php",
+		"/C/xampp/htdocs/condominio/painel/main.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/index.php",
+		"/C/xampp/htdocs/dankiwp/.gitignore",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/footer.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/page-sobre.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/page-contato.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/header.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/.gitignore",
+		"/C/xampp/htdocs/Projeto_01/index.php",
+		"/C/xampp/htdocs/dankiwp/wp-includes/post-template.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/sobre.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/contato.php",
+		"/C/xampp/htdocs/dankiwp/wp-content/themes/danki/style.css",
+		"/C/xampp/htdocs/frontend-danki/submenu/bootstrap/index.html",
+		"/C/xampp/htdocs/frontend-danki/submenu/style.css",
+		"/C/xampp/htdocs/frontend-danki/submenu/index.html",
+		"/C/xampp/htdocs/bikcraft/index.html",
+		"/C/xampp/htdocs/gestao/index.php",
+		"/C/xampp/htdocs/gestao/produto.php",
+		"/C/xampp/htdocs/gestao/classes/models/Product.php",
+		"/C/xampp/htdocs/gestao/assets/css/style.css",
+		"/C/xampp/htdocs/gestao/partials/header.php",
+		"/C/xampp/htdocs/gestao/partials/footer.php",
+		"/C/xampp/htdocs/devsbookoo/models/User.php",
+		"/C/xampp/htdocs/contas2/pages/header.php",
+		"/C/xampp/htdocs/ajax-php/index.php",
+		"/C/xampp/htdocs/ajax-php/javascript.js",
+		"/C/xampp/htdocs/ajax-php/controller.php",
+		"/C/xampp/htdocs/superfone/css/5_objects/5_objects.css",
+		"/C/xampp/htdocs/superfone/index.html",
+		"/C/xampp/htdocs/superfone/css/style.css",
+		"/C/xampp/htdocs/superfone/css/2_tools/2_tools.css",
+		"/C/xampp/htdocs/superfone/css/4_base/4_base.css",
+		"/C/xampp/htdocs/devsbookoo/index.php",
+		"/C/xampp/htdocs/devsbookoo/config.php",
+		"/C/xampp/htdocs/devsbookoo/models/Auth.php",
+		"/C/xampp/htdocs/devsbookoo/dao/UserDaoMySql.php",
+		"/C/xampp/htdocs/Projeto_01/painel/css/style.css",
+		"/C/xampp/htdocs/comida/index.php",
+		"/C/xampp/htdocs/Projeto_01/painel/main.php",
+		"/C/xampp/htdocs/Projeto_01/config.php",
+		"/C/xampp/htdocs/Projeto_01/painel/js/main.js",
+		"/C/Users/gusta/eclipse/jee-2021-06/eclipse/eclipse.ini",
+		"/C/xampp/htdocs/Projeto_01/painel/login.php",
+		"/C/xampp/htdocs/Projeto_01/classes/Painel.php",
+		"/C/Users/gusta/.android/advancedFeatures.ini",
+		"/C/xampp/htdocs/Projeto_01/painel/index.php",
+		"/C/xampp/htdocs/contas2/listar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas2/listar-contas-a-receber.php",
+		"/C/xampp/htdocs/contas2/classes/Conta.php",
+		"/C/xampp/htdocs/devweb-dankicode/config.php",
+		"/C/xampp/htdocs/contas2/editar-status.php",
+		"/C/xampp/htdocs/contas2/classes/Status.php",
+		"/C/xampp/htdocs/contas2/login.php",
+		"/C/xampp/htdocs/contas2/classes/Categoria.php",
+		"/C/xampp/htdocs/contas2/excluir-contas.php",
+		"/C/xampp/htdocs/contas2/editar-contas.php",
+		"/C/xampp/htdocs/contas2/editar-categorias.php",
+		"/C/xampp/htdocs/contas2/excluir-categorias.php",
+		"/C/xampp/htdocs/contas2/listar-categorias.php",
+		"/C/xampp/htdocs/contas2/adicionar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas2/adicionar-contas-a-receber.php",
+		"/C/xampp/htdocs/tabela/index.php",
+		"/C/xampp/htdocs/tabela/listar_usuario.php",
+		"/C/xampp/htdocs/clinica/index.html",
+		"/C/xampp/htdocs/clinica/css/style.css",
+		"/C/xampp/htdocs/tabela/conexao.php",
+		"/C/xampp/htdocs/tabela/gerar_usuarios_bd.php",
+		"/C/xampp/htdocs/contas/Classes/Conta.php",
+		"/C/xampp/htdocs/contas/Classes/DAO/Interfaces/AccountDAOInterface.php",
+		"/C/xampp/htdocs/contas/Classes/Model/Account.php",
+		"/C/xampp/htdocs/contas/Classes/Model/AccountType.php",
+		"/C/xampp/htdocs/contas/Classes/Model/Category.php",
+		"/C/xampp/htdocs/contas/Classes/Model/User.php",
+		"/C/xampp/htdocs/contas/teste-classes.php",
+		"/C/xampp/htdocs/contas/adicionar-categorias.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/contas/adicionar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas/listar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas/adicionar-contas-a-receber.php",
+		"/C/xampp/htdocs/contas/editar-contas.php",
+		"/C/xampp/htdocs/contas/excluir-contas.php",
+		"/C/xampp/htdocs/contas/index.php",
+		"/C/xampp/htdocs/contas/listar-categorias.php",
+		"/C/xampp/htdocs/contas/listar-contas-a-receber.php",
+		"/C/xampp/htdocs/contas/login.php",
+		"/C/xampp/htdocs/contas/sair.php",
+		"/C/xampp/htdocs/contas/Classes/DAO/Interfaces/UserDAOInterface.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mbstring",
+			"$page > count(",
+			"footer.php",
+			".menu ",
+			"foreach",
+			"descricao",
+			"gd",
+			"mbstring",
+			"mages/round",
+			"[XDebug]",
+			"debug",
+			"XDEBUG",
+			";/');",
+			"1",
+			"image-",
+			"image",
+			"Image",
+			"image",
+			"Image",
+			"image",
+			".jpg",
+			"otkenPayPal",
+			"extension=",
+			"intl",
+			"php_intl",
+			";extension=php_intl",
+			";extension=php_intl.dll",
+			"flex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nome",
+			"images/round",
+			"tokenPayPal"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "galeria.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
